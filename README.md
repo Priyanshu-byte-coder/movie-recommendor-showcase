@@ -43,23 +43,17 @@ The app uses **Content-Based Filtering**:
 
 ## 🚀 Live App
 
-👉 [Click here to try the live app](https://<your-streamlit-app-url>)  
+👉 [Click here to try the live app](https://movierecommender-l27gqgyeweduhskslis84n.streamlit.app/)  
 *(Replace the URL with your actual Streamlit deployment link)*
 
 ---
 
 ## 📦 Source Code
 
-👉 [View the source code here](https://github.com/<your-username>/movie-recommender-system)  
-*(Replace the URL with your code repository link)*
+👉 [View the source code here required to deploy the project](https://github.com/Priyanshu-byte-coder/movie_recommender)  
 
 ---
 
-## 🖼️ Demo Preview
-
-![Demo Screenshot](images/screenshot1.png)
-
----
 
 ## 📧 Contact
 
