@@ -58,4 +58,5 @@ The app uses **Content-Based Filtering**:
 ## 📧 Contact
 
 If you have any questions or feedback, feel free to reach out!
+email: doshipriyanshu3@gmail.com
 
