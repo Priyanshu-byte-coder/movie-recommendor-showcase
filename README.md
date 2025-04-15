@@ -44,7 +44,6 @@ The app uses **Content-Based Filtering**:
 ## 🚀 Live App
 
 👉 [Click here to try the live app](https://movierecommender-l27gqgyeweduhskslis84n.streamlit.app/)  
-*(Replace the URL with your actual Streamlit deployment link)*
 
 ---
 
